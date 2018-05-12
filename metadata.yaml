@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33861
     wikipedia: http://pt.wikipedia.org/wiki/Manuel_Joaquim_Pinheiro_Chagas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29394#Historia-alegre-de-Portugal--leitura-para-o-povo-e-para-as-escolas
 gutenberg_bookshelf:
 - PT Infantil e Juvenil
 - PT História
